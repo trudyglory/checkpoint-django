@@ -1,5 +1,3 @@
-*checkpoint-django
-
 # Carnet de voyage 
 
 Ce site dynamique est réalisé avec le framework Django dans le cadre d'un Checkpoint.<br>
