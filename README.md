@@ -1,4 +1,4 @@
-# checkpoint-django
+***checkpoint-django
 
 # Carnet de voyage 
 
